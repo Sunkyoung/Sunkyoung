@@ -19,8 +19,6 @@ I'm a master candidate at KAIST School of Computing (expect 2022.2).
 
 - 🔭 &nbsp; I'm currently working on data related to NLP research (especially, Korean NLP).  
 
-- 🌱 &nbsp; I'm looking for learning in knowledge reasoning and fairness/robustness/explainablibity in AI.   
-
 - 🙏🏼 &nbsp; I'm looking forward to build friendship between human and computer by communication (maybe language).  
 
 - 🥳 &nbsp; I just want to contribute to make better world !
