@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 I'm a master candidate at KAIST School of Computing (expect 2022.2).  
 
-- 🔭 &nbsp; I'm currently working on data related to NLP research (especially, Korean NLP).  
-
-- 🙏🏼 &nbsp; I'm looking forward to build friendship between human and computer by communication (maybe language).  
+- 🔭 &nbsp; I'm currently working on data-driven pre-training for large scale Korean language understanding model.  
 
 - 🥳 &nbsp; I just want to contribute to make better world !
 
