@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 🌱 &nbsp; I'm a data-driven NLP researcher.  
 
-🔭 &nbsp; I'm currently working on pre-training large scale Korean language understanding model.  
+🔭 &nbsp; I'm currently working on pre-training large-scale Korean language understanding model.  
 
-🥳 &nbsp; I just want to contribute to make better world !
+🥳 &nbsp; I just want to contribute to make better world with AI!
 
  📫 &nbsp; How to reach me: [sunkyoung@kaist.ac.kr](mailto:sunkyoung@kaist.ac.kr) | [wendy.sk.kim@gmail.com](mailto:wendy.sk.kim@gmail.com)
  
